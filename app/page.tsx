@@ -3,6 +3,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-50 flex items-center justify-center p-6">
       <div className="w-full max-w-3xl bg-white rounded-2xl shadow p-8">
+        {/* Header section with title */}
         <h1 className="text-3xl font-bold">AI Research Agent</h1>
         <p className="text-gray-600 mt-2">
           Give me a mission and I’ll generate a research plan + report.
