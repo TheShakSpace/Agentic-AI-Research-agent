@@ -20,6 +20,7 @@ export default function Home() {
           />
         </div>
 
+        {/* Button to generate the research plan */}
         <button className="mt-4 w-full rounded-xl bg-black text-white py-3 font-medium hover:opacity-90">
           Generate Plan
         </button>
